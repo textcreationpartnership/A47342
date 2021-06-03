@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon upon the resurrection preached before the Right Honourable the Lord Mayor, and Court of Aldermen, at St. Bride's Church, on Monday in Easter-week, April 9, 1694 / by Richard, Lord Bishop of Bath and Wells.</title>
+            <author>Kidder, Richard, 1633-1703.</author>
+         </titleStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47342</idno><idno type="EEBO-CITATION">12033764</idno>
+  <idno type="VID">52842</idno>
+  <idno type="EEBO-PROQUEST">2240945246</idno>
+  
+            <idno type="STC">Wing K417</idno>
+            <idno type="STC">ESTC R14062</idno>
+            <idno type="OCLC">12033764</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52842)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 569:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon upon the resurrection preached before the Right Honourable the Lord Mayor, and Court of Aldermen, at St. Bride's Church, on Monday in Easter-week, April 9, 1694 / by Richard, Lord Bishop of Bath and Wells.</title>
+                  <author>Kidder, Richard, 1633-1703.</author>
+               </titleStmt>
+               <extent>[3], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.H. for William Rogers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Resurrection --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="court_order">
+            <pb facs="tcp:52842:1"/>
+            <opener>
+               <signed>
+                  <hi>ASHHURST,</hi> Mayor.</signed>
+               <dateline>
+                  <date>
+                     <hi>Martis</hi> xvij. <hi>die</hi> Aprilis 1694. <hi>Anno{que} Regis &amp; Reginae</hi> Willi<g ref="char:EOLhyphen"/>elmi <hi>&amp;</hi> Mariae, Angl. <hi>&amp;c. sexto.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THIS Court doth desire the Right Reverend Father in God, <hi>RICHARD</hi> Lord Bi<g ref="char:EOLhyphen"/>shop of <hi>Bath</hi> and <hi>Wells,</hi> to Print his Sermon preached before the <hi>Lord Mayor, Aldermen,</hi> and <hi>Governors</hi> of the several Hospitals of this City, at the Parish-Church of St. <hi>Brides,</hi> on <hi>Monday</hi> in <hi>Easter</hi>-Week last.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:52842:1"/>
+            <p>A SERMON UPON <hi>The Resurrection,</hi> Preached before the RIGHT HONOURABLE THE Lord Mayor, AND Court of ALDERMEN, AT St. <hi>BRIDE</hi>'s CHURCH, ON <hi>MONDAY</hi> in <hi>Easter</hi>-Week, <hi>April</hi> 9. 1694.</p>
+            <p>By <hi>RICHARD,</hi> Lord Bishop of <hi>Bath</hi> and <hi>Wells.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. H.</hi> for <hi>William Rogers,</hi> at the <hi>Sun</hi> against St. <hi>Dunstan</hi>'s Church in <hi>Fleetstreet,</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:52842:2"/>
+            <pb n="1" facs="tcp:52842:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 PET. I. 3.</hi>
+                  </bibl>
+                  <p>Blessed be the God and Father of our Lord Jesus Christ, which, according to his abundant mercy, hath begotten us again unto a lively hope, by the resur<g ref="char:EOLhyphen"/>rection of Jesus Christ from the dead.</p>
+               </q>
+            </epigraph>
+            <p>IF in this life onely we have hope in Chirst,<note place="margin">1 Cor. xv. 19.</note> we are of all Men most miserable, says St. <hi>Paul.</hi> This World cannot satisfie us, for it bears no proportion to our <hi>capacities</hi> and <hi>desires.</hi> It sometimes bears hard upon us, but never gives us perfect ease. Were there no life beyond this, the present life would be of little moment, always, and sometimes a great bur<g ref="char:EOLhyphen"/>den. 'Tis the hope of better things that makes it tolerable, and its reference to a better life that gives it a price and value. The hope of some good hereafter supports us under our present Evils; This enables us against the fear of Death and the Grave. Our portion of things were sad, were our Hope no greater than our Possessions. But, <hi>Blessed be the God,</hi> &amp;c.</p>
+            <pb n="2" facs="tcp:52842:3"/>
+            <p> The Words are <hi>Eucharistical,</hi> and we are all greatly concerned in the Blessing here mentio<g ref="char:EOLhyphen"/>ned. And without farther Preface, I shall con<g ref="char:EOLhyphen"/>sider,
+<list>
+                  <item>I. The Blessing bestowed on us: <hi>We are be<g ref="char:EOLhyphen"/>gotten again to a lively hope.</hi>
+                  </item>
+                  <item>II. The Author and first Cause of it: <hi>The God and Father of our Lord Jesus Christ.</hi>
+                  </item>
+                  <item>III. The Motive which induced him to bestow this Blessing; <hi>viz. His abundant Mercy.</hi>
+                  </item>
+                  <item>IV. The Means by which we are begotten to this Hope; <hi>viz. By the Resurrection of Jesus Christ from the dead.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">I. The Blessing bestowed on us: <hi>We are be<g ref="char:EOLhyphen"/>gotten again to a lively hope;</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to the hope of life,</hi> as another Greek Copy hath it. And that not a mortal life, but, as it follows, <hi>to an inheritance incorruptible and undefiled, and that fadeth not away, reserved in heaven for you,</hi> (v. 4.) This calls for the greatest praise:<note place="margin">Eph. i. 3.</note>
+               <hi>Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ.</hi> Nothing calls for so much praise as the provi<g ref="char:EOLhyphen"/>sion God hath made for us in a future state. This is our comfort under our present troubles: <hi>Let not your heart be troubled....I go to prepare a<note place="margin">Joh. xiv. 1, 2.</note>
+                  <pb n="3" facs="tcp:52842:3"/>place for you.</hi> We have cause to bless God that we live, and for the comforts of life, much more for the hopes of a better. Here every one of us may say as <hi>David</hi> did:<note place="margin">1 Chron. xvij. 16, 17.</note>
+               <hi>O Lord God, and what is mine house, that thou hast brought me hitherto, and yet this was a small thing in thine eyes, O God; for thou hast also spoken of thy servant's house, for a great while to come.</hi>
+            </p>
+            <p>How unspeakable a Blessing is this? God made us happy at first, and placed us on high: We defaced His Image, rebelled against Him, and made our selves miserable. He hath resto<g ref="char:EOLhyphen"/>red us again, and again begotten us to the hope of eternal life. Well may we cry out with the Apostle, <hi>Blessed be the God,</hi> &amp;c. We had better never to have been, than to be without this hope.</p>
+            <p>What follows enhances the Blessing; 'Tis <hi>an inheritance, incorruptible,</hi> &amp;c. A life of Glory and Immortality, that shall never be ruffled with Sorrow, sullied with Sin, or invaded by Death: No Sickness shall make it painfull, no Sorrow uneasie, no Violence shall put an end to it. We are fond of this life, and think nothing too much to preserve it: And yet what is it? 'Tis <hi>spes &amp; formido futuri.</hi> Divided between hope and fear, precarious, uncertain and uneasie. And in the
+<pb n="4" facs="tcp:52842:4"/>midst of life we are in death. But then we shall live, and live for ever; And tears and pain shall be no more.</p>
+            <p>Our Lord hath abolished death, and <hi>brought life and immortality to light.</hi>
+               <note place="margin">2 Tim. i. 10.</note> But you will say, Was not eternal life known to the <hi>Jews?</hi> If it were, how are we said to be begotten to the hope of it by the Resurrection of Jesus Christ? I an<g ref="char:EOLhyphen"/>swer,</p>
+            <p n="1">1. Though it were known to the Faithfull under the Old Testament, yet it was no part of the express Pact or Covenant on God's part. Outward felicity was expressly promised to their Obedience of the Law of <hi>Moses,</hi> but there was not that express promise of eternal life. <hi>Jesus is the Mediator of a better Covenant,</hi>
+               <note place="margin">Heb. viij. 6. vij. 19.</note>
+               <hi>which was esta<g ref="char:EOLhyphen"/>blished upon better promises: The Law</hi> made no<g ref="char:EOLhyphen"/>thing perfect,<note place="margin">Rom. ij. 7. John iij. 16.</note> but the <hi>bringing in of a better hope</hi> did. But this is the express promise of the Go<g ref="char:EOLhyphen"/>spel.</p>
+            <p n="2">2. The <hi>Gentiles</hi> receive the notice and promise of eternal life by the Gospel. They had no hopes of it before that could assure them: They were as <hi>without Christ,</hi>
+               <note place="margin">Eph. ij. 11, 12.</note> so <hi>without hope,</hi> and <hi>with<g ref="char:EOLhyphen"/>out God in the world.</hi> So that to us Life and Im<g ref="char:EOLhyphen"/>mortality is brought to light through the Go<g ref="char:EOLhyphen"/>spel, and we are begotten to this hope of life
+<pb n="5" facs="tcp:52842:4"/>by the Resurrection of Jesus Christ from the dead.</p>
+            <p n="3">3. What-ever knowledge the devout <hi>Jews</hi> had, it is now openly revealed:<note place="margin">Eph. iij. 5.</note> 'Twas <hi>not known to the sons of men, as it is now revealed,</hi> that I may use St. <hi>Paul</hi>'s phrase. There were shadows of Heaven and heavenly things under the Law: The Land of <hi>Canaan</hi> was a Type of it. <q>Their High-Priest went into the Holy of Holies once a year; the Holy Ghost this signifying, that the way into the Holiest of all was not yet made manifest, while the first Tabernacle was yet standing,<note place="margin">Heb. ix. 8, 9.</note> which was a figure for the time then present.</q>
+            </p>
+            <p n="4">4. The hope of Eternal life is much cherished by the Gospel. Under the Law were offered <q>both Gifts and Sacrifices that could not make him that did the service perfect, as pertaining to the Conscience, which stood onely in Meats and Drinks, and divers Washings and Carnal Ordinances imposed upon them untill the time of Reformation: For that Law made nothing perfect.</q> Those Services did not advance Men toward Heaven:<note place="margin">Heb. ix. 9, 10 vij. 19.</note> They were obliged to <hi>variety</hi> of <hi>Sacrifices,</hi> of <hi>Meats</hi> and <hi>Drinks,</hi> to <hi>Journeys</hi> to <hi>Jerusalem,</hi> and various <hi>Rituals</hi> there: They <hi>offered Bloud</hi> and <hi>Incense,</hi> and were under Laws as to
+<pb n="6" facs="tcp:52842:5"/>their <hi>Tillage</hi> and <hi>Husbandry,</hi> their <hi>Marriages</hi> and <hi>Inheritances,</hi> their <hi>Garb</hi> and <hi>Cloathing:</hi> They were obliged to obey, but that Obedience increased not the Divine Life; nor did it advance them toward Heaven and Immortality.</p>
+            <p>'Tis otherwise under the Gospel. Our hope of Heaven is cherished here. The promise of it is inserted in this Covenant. The Condition on our part is expressed; That we be pure in heart, and poor in spirit; Our very Work dis<g ref="char:EOLhyphen"/>poseth us for this glorious Reward; Our Repen<g ref="char:EOLhyphen"/>tance and our Prayers; Our Hearing and Read<g ref="char:EOLhyphen"/>ing, and Receiving the Holy Sacrament, set us nearer to this blessed state; Our Religion, and all the Exercises of it, form us for Heaven; It abstracts us from worldly hopes and dependen<g ref="char:EOLhyphen"/>cies, and puts us upon aspiring after better things; Our Work is Spiritual, and so is our Re<g ref="char:EOLhyphen"/>ward; Our Holy Religion puts us upon Purity, and raises our Mind towards the Glories that are Spiritual and Eternal.</p>
+            <p>What cause have we to bless God for this good hope? The <hi>Angels</hi> that fell were passed by and reserved to the sad portion of things due to them; The <hi>Jews</hi> had but faint hopes, the <hi>Gentiles</hi> had no hope. How many in the World still conti<g ref="char:EOLhyphen"/>nue in the Lot of <hi>Infidels?</hi> How many that have
+<pb n="7" facs="tcp:52842:5"/>not yet heard of this Hope; and how many mi<g ref="char:EOLhyphen"/>serable Souls that have out-lived it? We are alive this day, and enjoy a lively hope also. What cause have we to say, <hi>Blessed be the God and Father of our Lord Jesus Christ,</hi> &amp;c. We are past feeling, if we want a sense of so unspeakable a Blessing. God hath given up his Son to Death, that we might not die; raised him to Life, that we might be assured of Life-eternal; Gives us his Body and Bloud as a pledge of our Resurrection, and to nourish us up to Eternal life. What shall we render to Him? 'Tis meet we should call up all our Powers to bless and praise Him.</p>
+            <p>But then let us consider, 'tis the <hi>hope</hi> of life we have, not the <hi>possession.</hi> Let us not therefore be careless and negligent, but improve this great talent. St. <hi>John</hi> directs us;<note place="margin">1 John iij. 3.</note>
+               <hi>Every man that hath this hope in him, purifieth himself as he is pure.</hi> It well becomes us to cherish and increase this Hope, which is the most valuable Treasure that belongs to us. 'Tis too great and precious a Treasure to be squandered away. 'Tis by this <hi>we are saved:</hi>
+               <note place="margin">Rom. viij. 24. ch. v. 2.</note> By this we are sustained; and what-ever we suf<g ref="char:EOLhyphen"/>fer, we rejoice in the <hi>Hope</hi> of the glory of God. We can want nothing greatly, whiles our Hope of Heaven increaseth; and nothing can do us good, if that languish and decay. We had bet<g ref="char:EOLhyphen"/>ter
+<pb n="8" facs="tcp:52842:6"/>never to have had this Hope, than to forfeit it. If we do, the Infidels will at the Day of Accounts be in a better condition than we! None will be so miserable as they who might have been happy. I consider.</p>
+            <p n="2">II. The Author and first Cause of this Bles<g ref="char:EOLhyphen"/>sing: <hi>The God and Father of our Lord Jesus Christ.</hi> Our Hope is from Him from whom we have our breath and being. 'Twas no more in our power to restore our selves to this Hope, than to cause our own Being. All our Hope and Help is from God, our misery and folly from our selves. But why the <hi>God and Father of our Lord Jesus Christ?</hi> Why must this be the style now? Might not the God of <hi>Abraham, Isaac</hi> and <hi>Jacob,</hi> the God that made the World, and brought <hi>Is<g ref="char:EOLhyphen"/>rael</hi> out of <hi>Egygt?</hi> might not this style have done as well? Why is He to be Blessed as the God and Father of Jesus Christ?</p>
+            <p>The answer is this; <hi>viz.</hi> That we may both understand and consider to whom this great Bles<g ref="char:EOLhyphen"/>sing belongs; <hi>viz.</hi> Not to <hi>Jews</hi> and <hi>Infidels,</hi> but to <hi>Christians;</hi> And also on whose account we re<g ref="char:EOLhyphen"/>ceive this Hope of life, <hi>viz.</hi> on that of Jesus Christ. This Hope belongs to the Faithfull, and 'twas purchased by the Bloud of <hi>Jesus.</hi> This way the
+<pb n="9" facs="tcp:52842:6"/>Blessing comes to us. <hi>Jesus</hi> is the <hi>Way,</hi> the onely Mediator between God and us. All our Mer<g ref="char:EOLhyphen"/>cies are owing to the Bounty of God, and Me<g ref="char:EOLhyphen"/>rits of <hi>Jesus.</hi> To God we address in the Name of <hi>Jesus,</hi> in his Merit and Mediation all our Faith and Hope is founded. I proceed to,</p>
+            <p n="3">III. The Motive, which induced God to be<g ref="char:EOLhyphen"/>stow this Blessing; <hi>viz. His abundant Mercy.</hi>
+            </p>
+            <p>There could be nothing else but this that pre<g ref="char:EOLhyphen"/>vailed. Our Being, and being what we are, and all the good we enjoy is owing alone to the Mercy of God. When we were not, we could not move him to send us into being: All this is Mercy, but our hope of Heaven is abun<g ref="char:EOLhyphen"/>dant Mercy: To this Hope we are begotten, not onely without any Motive in us, but not<g ref="char:EOLhyphen"/>withstanding our demerits.</p>
+            <p>This hope of life to which we are begotten again is an unspeakable Mercy. 'Tis so in it self, and it comes from God to us with all the En<g ref="char:EOLhyphen"/>dearments imaginable. 'Tis on our part unde<g ref="char:EOLhyphen"/>served, 'twas unsought, we were Enemies; We deserved not a Temporal, God bestows Eternal life.</p>
+            <p>The Blessings of our Religion are very surpri<g ref="char:EOLhyphen"/>zing: May they always affect our Hearts! The
+<pb n="10" facs="tcp:52842:7"/>Scriptures mention them in terms that are Em<g ref="char:EOLhyphen"/>phatical and great: This Mercy of God is called here <hi>Abundant Mercy.</hi> St. <hi>Paul</hi> elsewhere calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;<note place="margin">Eph. ij. 7.</note> i. e. <hi>The ex<g ref="char:EOLhyphen"/>ceeding riches of grace:</hi> And the love of Christ, <hi>a love that passeth knowledge.</hi>
+               <note place="margin">ch. iij. 19.</note> He tells us that God is <hi>rich in Mercy;</hi>
+               <note place="margin">ch. ij. 4.</note> and the Mercy he shews in Christ is called <hi>the unsearchable riches of Christ.</hi>
+               <note place="margin">Eph. iij. 8.</note> His Gift is called <hi>unspeakable:</hi>
+               <note place="margin">2 Cor. ix. 15.</note> And he is said to <hi>commend his love to us;</hi>
+               <note place="margin">Rom. v. 8.</note> and <hi>so</hi> to have loved the World; but <hi>how</hi> is not said: That Love hath no parallel, nothing fit for an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or to com<g ref="char:EOLhyphen"/>pare with it. Here's a Miracle of Mercy. Hea<g ref="char:EOLhyphen"/>ven stoops to mortal and sinfull Man. God, who needs us not, seeks after us. He who is offended, seeks to be reconciled. Man commits the fault, God finds an atonement. Man ruines himself, God contrives his recovery. All this while God has no design but what speaks pity to us. His Being and Happiness are secure, though we had never been, or had been misera<g ref="char:EOLhyphen"/>ble. Here's nothing to move God but His com<g ref="char:EOLhyphen"/>passion and our misery.</p>
+            <p>Great indeed was our misery: Our Natures were corrupted, and humane Race fell from one excess to another. Miserable was the case of mankind before the Christian. Doctrine was re<g ref="char:EOLhyphen"/>ceived.
+<pb n="11" facs="tcp:52842:7"/>St. <hi>Paul</hi> describes it: <hi>We our selves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy,</hi>
+               <note place="margin">Tit. iij. 3.</note>
+               <hi>hatefull and hating one another.</hi> Great was the darkness that over-spread the Earth; great the disorders and wickedness that had spotted and sullied it. Man was turned Rebel to his God, and stood at a great Remove from the Author of his Being, and Him that could onely make him Happy. How little was there of the Divine Image left! How far was Man from that recti<g ref="char:EOLhyphen"/>tude in which he was first made! The Devil had set up his Kingdom among men; They were his Slaves now, not the Servants of God. St. <hi>Paul</hi> tells what brought us out of this condition: <hi>But after that the Kindness,</hi>
+               <note place="margin">v. 4, 5, 6.</note>
+               <hi>and love of God our Saviour toward Man appeared; not by works of righteousness which we have done, but, according to his mercy, he saved us by the washing of regeneration, and renewing of the Holy Ghost; which he shed on us abundantly through Jesus Christ our Saviour.</hi>
+            </p>
+            <p>Here's nothing to be seen but what is from God; He hath done these great things for us: And his own abundant Mercy hath induced him thereunto. I proceed to consider,</p>
+            <p n="4">
+               <pb n="12" facs="tcp:52842:8"/> IV. The Means by which we are begotten again to this lively Hope; <hi>viz. By the Resur<g ref="char:EOLhyphen"/>rection of Jesus Christ from the dead.</hi>
+            </p>
+            <p>Two Things I shall speak to before I con<g ref="char:EOLhyphen"/>clude.</p>
+            <p>First, I shall shew how the Resurrection of Jesus Christ from the Dead does contribute to beget in us a lively hope, or an hope of Eternal life.</p>
+            <p>Secondly, I shall make some Use and Ap<g ref="char:EOLhyphen"/>plication.</p>
+            <p>To these I premise, that the Death of <hi>Jesus,</hi> considered alone, would have been far from af<g ref="char:EOLhyphen"/>fording us any Comfort or Hope, had it not been followed by his Resurrection from the Dead; Our Hope would have been buried with him, and we should have had no cause to believe him to be the <hi>Messias</hi> and Saviour of mankind. The Disciples which went to <hi>Emmaus</hi> seemed to have little hope remaining when their Lord was cru<g ref="char:EOLhyphen"/>cified: <hi>We trusted</hi> (say they) <hi>that it had been He that should have redeemed Israel.</hi>
+               <note place="margin">Luk. xxiij. 31.</note> Their Hope and their Lord seemed to expire together. We had been left without Hope, had not our Lord ari<g ref="char:EOLhyphen"/>sen
+<pb n="13" facs="tcp:52842:8"/>out of the Grave. The <hi>Jews</hi> themselves (those bitter Enemies of Christianity) do not deny that he died, but that he rose from the dead. They contrived and accomplished his Death, but did what-ever they could first to hinder his Resur<g ref="char:EOLhyphen"/>rection, and then to obstruct the spreading of it. His Death was a great objection to his Fol<g ref="char:EOLhyphen"/>lowers; they thence doubted whether he were their Redeemer or not. Our Lord knew it would be thus with them: And therefore that they might not be long in suspence, he hastened his Resurrection as much as might be, that his Fol<g ref="char:EOLhyphen"/>lowers might not be long in suspence. On the third day; as He had predicted, he was to rise. And as he died in the Evening of the first of these three days,<note place="margin">Joh. xx. 1<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> so he rises early in the Morning of the third. But as his Death did diminish their Hope, so his Resurrection did revive it.</p>
+            <p>I proceed to shew how the Resurrection of <hi>Je<g ref="char:EOLhyphen"/>sus Christ</hi> from the Dead, gives us a lively Hope of Eternal life. And that it does,</p>
+            <p n="1">1. As it gives us a great assurance of the Truth of our Saviour's Doctrine; That he was the Christ the Son of God, and that his Doctrine was Di<g ref="char:EOLhyphen"/>vine. A greater confirmation could not reason<g ref="char:EOLhyphen"/>ably be desired than that of his Resurrection. His
+<pb n="14" facs="tcp:52842:9"/>raising others was a good proof that he was the Son of God, and therefore his raising himself must be an unexceptionable one: <hi>He was decla<g ref="char:EOLhyphen"/>red to be the Son of God with power, according to the spirit of holiness,</hi>
+               <note place="margin">Rom. i. 4.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>By the Resur<g ref="char:EOLhyphen"/>rection from the dead.</hi> This was the utmost Evi<g ref="char:EOLhyphen"/>dence that could be desired. This was the pre<g ref="char:EOLhyphen"/>tence of that Impostor which <hi>Maimonides</hi> tells us of, that pretended he was the fore-runner of the <hi>Messias;</hi> that if he were killed, he would rise from the dead. The <hi>Arabian</hi> King took him at his word, and beheaded the Impostor; but from that time we have heard nothing of his Resur<g ref="char:EOLhyphen"/>rection: But our Saviour fore-told his Resur<g ref="char:EOLhyphen"/>rection, and by rising again made it appear that he was a true Prophet, and confirmed his whole Doctrine, and therein the Article of Everlasting life.</p>
+            <p n="2">2. As by his Resurrection he hath given us an assurance of our discharge from Sin, and so has opened the Kingdom of Heaven to all Believers. Had not <hi>We</hi> been Sinners, Christ had never died; had <hi>He</hi> been one, he had never risen from the dead. As his Death speaks us debtors, so his Resurrection speaks our discharge. <hi>He was deli<g ref="char:EOLhyphen"/>vered for our offences,</hi>
+               <note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. iv. 25.</note>
+               <hi>and raised again for our justi<g ref="char:EOLhyphen"/>fication.</hi> He was our Surety, and in that he was
+<pb n="15" facs="tcp:52842:9"/>not detained among the dead, we are assured that our debt is paid. By his Death he purcha<g ref="char:EOLhyphen"/>sed our redemption from the sting of Death; and by his Resurrection assured us of Eternal life. The Apostles argument is strong, and full of comfort besides: Says he, <q>If when we were Enemies, we were reconciled to God by the Death of his Son; much more being reconci<g ref="char:EOLhyphen"/>led, we shall be saved by his Life.<note place="margin">Rom. viij. 10.</note>
+               </q> He paid the price when he died, but his Resurrection as<g ref="char:EOLhyphen"/>sures us that the price was accepted. And now, <hi>Who is he that condemneth? It is Christ that died, yea rather that is risen again,</hi> (Rom. viij. 34.)</p>
+            <p n="3">3. As the Resurrection of <hi>Jesus</hi> does inferr ours. And this it does: <hi>If there be no Resur<g ref="char:EOLhyphen"/>rection of the dead, then is Christ not risen.</hi> But now is Christ risen from the dead,<note place="margin">1 Cor. xv.</note> and become the first-fruits of them that slept. As the first-fruits under <hi>Moses</hi> hallowed all the rest, so Christ's Resurrection inferrs ours. <hi>If the first-fruits be holy,</hi>
+               <note place="margin">Rom. xi. 16.</note>
+               <hi>the lump is also holy.</hi> For the better understanding this expression, 'twill be worth our while to re<g ref="char:EOLhyphen"/>flect on the Law of <hi>Moses.</hi> The <hi>Jews</hi> were com<g ref="char:EOLhyphen"/>manded when they reaped their Harvest <hi>to bring a sheaf of the first-fruits</hi> thereof to the <hi>Priest: And he shall wave the sheaf before the Lord to be accepted for you:</hi>
+               <note place="margin">Levit. xxiij. 9, 10, 11.</note>
+               <hi>On the morrow after the Sabbath the Priest
+<pb n="16" facs="tcp:52842:10"/>shall wave it.</hi> When this Sheaf was waved, a Burnt-offering was also offered; nor might they eat Bread, parched Corn, or green Ears, till they had brought an Offering unto God. When this Oblation was made, all the Lump was hallowed, and the Offering of this was in <hi>lieu</hi> of all the rest. Our Saviour rose from the dead at that time when the first-fruits was wont to be presented. 'Twas likewise on the <hi>morrow after the Sabbath</hi> that he rose: And as the Sheaf had relation to the whole Encrease, so the Resurrection of <hi>Jesus</hi> implies that of his Members. Thus are we be<g ref="char:EOLhyphen"/>gotten to a lively Hope by the Resurrection of Jesus Christ. The Resurrection of Christ inferrs ours,</p>
+            <p n="1">(1). As by his Resurrection he hath obtained a dominion over the dead as well as living: <q>To this end Christ both died, rose again, and revived, that He might be Lord both of the dead and living, (<hi>Rom.</hi> xiv. 9.)</q> Christ's Re<g ref="char:EOLhyphen"/>surrection is a certain sign of his Dominion. <q>He hath appointed a day in which he will judge the World in Righteousness by that man whom he hath ordained; whereof he hath gi<g ref="char:EOLhyphen"/>ven assurance unto all men, in that he hath raised him from the dead, (<hi>Acts</hi> xvij. 31.)</q>
+            </p>
+            <p n="2">
+               <pb n="17" facs="tcp:52842:10"/> (2.) As He is constituted Judge of quick and dead. <q>As the Father raiseth up the dead, and quickeneth them, even so the Son quickeneth whom he will: For the Father judgeth no man,<note place="margin">Joh. v. 21, 22.</note> but hath committed all Judgment to the Son.</q> If the Judge be risen, they must rise who are to be judged.</p>
+            <p n="3">(3.) As He is our Head. And if the Head be risen, the Members shall not stay behind.<note place="margin">Col. i. 18. 1 Cor. xv. 21.</note>
+               <hi>He is the head of the body the Church. As in Adam all die, even so in Christ shall all be made alive.</hi> Our Lord is our Head, and in Him is our Nature exalted and raised up: And as he partakes of our Flesh, so do we of his Spirit, and have a pledge and argument on each side of our Resurrection. <q>If the spirit of Him who raised up Jesus from the dead dwell in you; He that raised up Christ from the dead, shall also quicken your mor<g ref="char:EOLhyphen"/>tal bodies by his spirit that dwelleth in you, (<hi>Rom.</hi> viij. 11.)</q> We receive great assurance of our Resurrection; Christ hath left us (says <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi>) <hi>Arrabonem Spiritus,</hi> the Earnest of the Spi<g ref="char:EOLhyphen"/>rit; and he hath taken from us <hi>Arrabonem Carnis,</hi> the <hi>Earnest of the Flesh,</hi> and carried with him in<g ref="char:EOLhyphen"/>to Heaven, <hi>Pignus totius summae illic quandóque re<g ref="char:EOLhyphen"/>digendae;</hi> Part of our humane Nature, a pledge that inferrs the Resurrection of the rest. The
+<pb n="18" facs="tcp:52842:11"/>Holy Sacrament we receive (if we receive as we should) is a token of our Resurrection. <q>Who so eateth my flesh, and drinketh my bloud, hath Eternal life, and I will raise him up at the last day, (<hi>Joh.</hi> vj. 54.)</q>
+            </p>
+            <p>I shall now make some Application of what hath been said last.</p>
+            <p n="1">1. Hence we may be comforted against the fear of Death. Our Lord hath disarm'd it, and now we can discern Life and Immortality be<g ref="char:EOLhyphen"/>yond it. We can look into our Graves with comfort, for Christ is risen, and we shall there<g ref="char:EOLhyphen"/>fore rise. We may say with Triumph, <q>O death, where is thy sting? O grave, where is thy victory? The sting of death is sin, and the strength of sin is the law: But thanks be to God, who giveth us the victory, through our Lord Jesus Christ, (1 <hi>Cor.</hi> xv. 55.)</q> We now justly hope for an Heavenly Building, instead of an Earthly Tabernacle: Instead of these vile Bo<g ref="char:EOLhyphen"/>dies, we hope for glorious ones. We can safely commit these to the Dust; what we sow in dis<g ref="char:EOLhyphen"/>honour, will rise in glory. <hi>Expectandum etiam corporis ver est.</hi> Our Hope is firm, and will never leave us ashamed.</p>
+            <p n="2">2. Let us in the mean time, as becomes such as have a well-grounded Hope, walk in newness
+<pb n="19" facs="tcp:52842:11"/>of life. <q>That like as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life, (<hi>Rom.</hi> vj. 4.)</q> If Christ be risen, let us rise with him; let us no longer dwell in the Regions of Death; no longer be addicted to Earth and Earthly things: <q>If ye be risen with Christ, seek the things which are above, (<hi>Col.</hi> iij. 1.)</q> You will rise and receive according to your doings. Be carefull then that ye continue in well-doing, that your Resurrection may not prove your Return to misery. How will those Hands tremble that now minister to Violence! and that Tongue fal<g ref="char:EOLhyphen"/>ter that now speaks perverse things? And those Eyes consume, which behold Vanity? What will support the Feet that have pursued innocent bloud? You shall rise to Life or Death; your Lord will be your Advocate or Accuser. Defile not then that Nature which he hath raised and pla<g ref="char:EOLhyphen"/>ced in Heaven. Say not, Let's eat and drink, to morrow we die: Man that dies shall live again, and ought therefore to wait with care and patience in well-doing till his Change comes. <q>There<g ref="char:EOLhyphen"/>fore, my beloved Brethren, be ye stedfast, un<g ref="char:EOLhyphen"/>moveable, always abounding in the work of the Lord, forasmuch as ye know that your la<g ref="char:EOLhyphen"/>bour is not in vain in the Lord.</q>
+            </p>
+            <div type="part">
+               <pb n="20" facs="tcp:52842:12"/>
+               <head>A True Report, <hi>&amp;c.</hi>
+               </head>
+               <p>HAving read this <hi>True Report,</hi> I must crave leave to add a few words with relation to it: I say a <hi>few words;</hi> for I need not use many to those who believe it to be true: For it speaks for it self without being beholden to an Advocate or an Orator.</p>
+               <p>Here are laid before you great and real Ob<g ref="char:EOLhyphen"/>jects of Charity and Compassion: Here's enough to move you, if any thing can be enough: And if Men of <hi>large</hi> Estates cannot be gained upon in these cases, it is because they have <hi>narrow</hi> Souls.</p>
+               <p>The Case of <hi>Orphans</hi> presents first. They beg your Compassion as destitute of their Pa<g ref="char:EOLhyphen"/>rents, upon whom God and Nature had laid the Care of them. They have none to take care of them left, but <hi>God</hi> and <hi>You,</hi> who are God's <hi>Stewards;</hi> They flee to you as Fathers, and be<g ref="char:EOLhyphen"/>seech your help by all the Bowels of an Earthly Father, and by the Mercies of your and their Heavenly Father.</p>
+               <pb n="21" facs="tcp:52842:12"/>
+               <p> The Case of the <hi>Sick</hi> and <hi>Maimed</hi> offers next. They beg that you would be <hi>Eyes to the Blind,</hi> and <hi>Feet to the Lame;</hi> That you <hi>would deliver</hi> the Poor that cries, and him that hath none to <hi>help him:</hi> That the Blessing of him that is ready <hi>to pe<g ref="char:EOLhyphen"/>rish may come upon you,</hi> and that you <hi>would cause the Widows heart to sing for joy.</hi> Here are misera<g ref="char:EOLhyphen"/>ble Objects before your Eyes, and such as are in no capacity to help themselves.</p>
+               <p>But there is another sort of persons still, I mean the <hi>Lunatic</hi> and <hi>Distracted.</hi> They are, in one sense, the most miserable of all others; They are bereft of their nobler part. Besides, they are miserable, and do not know it: They want your help, and yet make no address. They are not capable of calling for your help, though they want it greatly. You will meet with no importunities, with no applications from them. And yet nothing can be more compassionable than the Condition of these poor Creatures is.</p>
+               <p>Here may we bestow our Wealth well and wisely. Nor can there be any thing more un<g ref="char:EOLhyphen"/>exceptionable than these ways of Charity.</p>
+               <p>For the first, that of bringing up poor Or<g ref="char:EOLhyphen"/>phans in <hi>Christ's Hospital</hi> to Religion and usefull
+<pb n="22" facs="tcp:52842:13"/>Learning, to Discipline and good Manners, to usefull Imployments, and Serviceableness both by Sea and Land: 'Twill be hard for Malice it self to except against it. This is so Blessed a Work, that nothing but want of Ability can excuse us from giving assistence to it: 'Tis a Charity not onely to those who are admitted, and to their Families, but to the Common-wealth. In this Benefaction all the Ends of Charity are gained at once. We provide at once for <hi>Soul</hi> and <hi>Body;</hi> relieve the <hi>Fatherless</hi> and <hi>Widow</hi> together; pro<g ref="char:EOLhyphen"/>vide for a <hi>present</hi> subsistence, and for a <hi>future;</hi> for this <hi>Age,</hi> and for the <hi>next:</hi> We keep from <hi>starving,</hi> and from <hi>sloth;</hi> and bring those up to Business, who will preserve our Memory when we are in the Dust, and our Names will this way be preferible to that of <hi>Sons</hi> and <hi>Daugh<g ref="char:EOLhyphen"/>ters.</hi>
+               </p>
+               <p>But as this is a noble Charity, so we are sure it gains its End. To the Immortal Praise of this City be it spoken. Here's all good Manage<g ref="char:EOLhyphen"/>ment: The worthy <hi>Governors</hi> are not bare <hi>Over<g ref="char:EOLhyphen"/>seers,</hi> but great <hi>Assistants</hi> also: They do not onely spend their <hi>Time,</hi> but their <hi>Estates</hi> this way: Their <hi>Treasure,</hi> as well as their <hi>Hours,</hi> are laid out here.</p>
+               <pb n="23" facs="tcp:52842:13"/>
+               <p> The Youth here are taught with singular <hi>care</hi> and <hi>accuracy;</hi> the Schools are <hi>exemplary</hi> to very many, but <hi>second</hi> to none. Here the Rudiments of Learning are exactly laid (I speak what I certainly know) and that Learning gained which is for the general Ends of Life.</p>
+               <p>They are <hi>fed</hi> as well as <hi>taught,</hi> and that too with great <hi>care</hi> and due <hi>plenty,</hi> with strict <hi>order</hi> and just <hi>proportions;</hi> with what is <hi>wholsome,</hi> and truly <hi>good.</hi> Here's no want of sufficient food and raiment, the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>They are instructed in Religion, and taught to pray to, and to praise the Creator, the God and Father of our Lord Jesus Christ.</p>
+               <p>The Rich, that are wise, wou'd choose to have their Children both taught and fed, as these Children; and though they wou'd not choose the Livery, must needs approve the Discipline of this place. There may be many places bet<g ref="char:EOLhyphen"/>ter <hi>endowed,</hi> but none better <hi>governed;</hi> And, thanks be to God, we have seen the <hi>fruits</hi> of this good Discipline; And, I hope, shall see it more and more, as the young Plants grow up to ma<g ref="char:EOLhyphen"/>turity and imployment. An happy Nursery it is; and a good Presage we have from it, that God will, what-ever our grounds of fear may be, still preserve and bless this City for its most Ex<g ref="char:EOLhyphen"/>emplary
+<pb n="24" facs="tcp:52842:14"/>Care of so many Fatherless Chil<g ref="char:EOLhyphen"/>dren.</p>
+               <p>I think 'twill be hard to shew any Stranger a more pleasing sight in this famous City than the Order and Discipline of this House, and the Ex<g ref="char:EOLhyphen"/>ercises of those which it does contain. And af<g ref="char:EOLhyphen"/>ter all the boasts of Charity in the <hi>Roman</hi> Church, 'twill be hard to find any there to vye with this; Perhaps I might have said nothing to be fit to come in competition.</p>
+               <p>For the <hi>Noso-Comia,</hi> or Hospitals for the Sick, the Maimed, and those helpless Creatures they contain, they are also worthy of the care of the Rich and Wealthy. These poor <hi>Lazars</hi> had need of all the compassion, and all the help we can afford them. The same may be said for <hi>Bethlehem,</hi> the Receptacle of poor Lunaticks.</p>
+               <p>And thus I have laid before you a way to imploy your Charity; I have shewn you a good Fund, and one that is unexceptionable. I have little now to add, but to perswade you to the practice and exercise of your Charity. And I am of a perswasion, that I need not say much to that purpose. I know very well, that there are some Men ready to give; their great care is to give wisely and safely. 'Tis a just care; but
+<pb n="25" facs="tcp:52842:14"/>the ways that have been offered and laid before you may discharge you from that care: Here are several ways, and now you cannot give a<g ref="char:EOLhyphen"/>miss.</p>
+               <p>There is a Tribute due from us for the Divine Mercies, and especially the distinguishing Mer<g ref="char:EOLhyphen"/>cies of God. God hath preserved your Under<g ref="char:EOLhyphen"/>standings and wiser Faculties; this calls for help to the <hi>Lunatick:</hi> He hath kept you from Maim, and Sickness; this pleads for the maimed and infirm. But for the Orphans, every thing can plead; their cry will reach all sorts of rich Men. If the wealthy have Children, they will not want the bowels of Fathers to incline them; And if they have none of their own, they will be more without excuse, if they refuse to help those who are destitute and helpless.</p>
+               <p>There is no want of Motives in this case. If we be good ourselves, we cannot refuse this Ex<g ref="char:EOLhyphen"/>hortation: And if we be great Sinners, we can<g ref="char:EOLhyphen"/>not take a wiser course, than by breaking off our Sins by Repentance, and our Iniquities by shew<g ref="char:EOLhyphen"/>ing Mercy to the Poor. There is nothing bet<g ref="char:EOLhyphen"/>ter for our selves, for others, for the publick, for our temporal, our eternal good, than this use of Wealth.</p>
+               <pb n="26" facs="tcp:52842:15"/>
+               <p> We may bestow our Wealth safely here. No part will be so safe as that which we give to God. He hath promised to re-pay us. And He is faith<g ref="char:EOLhyphen"/>full that hath promised. His Mercy will be sea<g ref="char:EOLhyphen"/>sonable always; 'Twill be so at the Hour of Death, and at the Day of Judgment. We shall be sure of his Mercy, if we shew Mercy to the Poor.</p>
+               <p>This is no disputable Question, 'tis no con<g ref="char:EOLhyphen"/>tested Point I am pleading for; nothing that is controverted in the Schools. In such things we are warm enough, even where we are on the wrong side of the Question, and we are often uncertain that we are right. Here we are sure we are right when we give to God, and help forward the good and happiness of mankind.</p>
+               <p>This is pure Religion, and undefiled in the sight of God: Here's a Sacrifice with which he is well-pleased. This is an Imitation of God and our Blessed Saviour, a Recognition of our sense of God's Mercies, a great Act of Religion, and the way to the Glory that is above, and which does surpass what our Eye hath seen, <hi>&amp;c.</hi> This course will bless and secure our remaining Wealth, lessen our Accounts, adom our Holy Religion, and bring us Peace at the last.</p>
+               <pb n="27" facs="tcp:52842:15"/>
+               <p> Be kind to your selves, and make you friends of your unrighteous <hi>Mammon;</hi> Do good while you may, whiles it is in your power; Encou<g ref="char:EOLhyphen"/>rage Piety and Vertue, and the Welfare of Man<g ref="char:EOLhyphen"/>kind: And if you do this, and continue in well-doing, you shall ere-long enter into joy un<g ref="char:EOLhyphen"/>speakable and full of glory: Which that you may all do, <hi>God of his infinite Mercy grant,</hi> &amp;c.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
